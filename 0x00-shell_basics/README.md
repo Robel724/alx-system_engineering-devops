@@ -1,2 +1,4 @@
-0. script 0-current_working_directory will print absolute path upon excuting it.
-1. script 1-listit will print all existing files in this directory upon excuting it. 
+0. script 0-current_working_directory will print absolute path upon excusion.
+1. script 1-listit will print all existing files in this directory upon excusion.
+2. script 2-bring_me_home changes the working directory to the user's home directory upon excusion.
+3. script 3-listfiles will display current directory contents in long format upon excusion.
