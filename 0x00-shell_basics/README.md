@@ -10,3 +10,4 @@
 9. script 9-firstdirdeletion will delete the directory my_first_directory that is in the /tmp directory upon excusion.
 10. script 10-back will chagne the working directory to the previous one upon excusion.
 11. script 11-lists will list all files of the current directory and their parent directory including files in the /boot directory in a lond format upon excusion.
+12. script 12-file_type print the rype of the file named iamafile in the /tmp directory upon excusion.
