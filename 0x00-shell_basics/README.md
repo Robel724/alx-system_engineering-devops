@@ -4,3 +4,4 @@
 3. script 3-listfiles will display current directory contents in long format upon excusion.
 4. scruot 4-listmorefiles displays currrent directory contents in long format including hiden files upon excusion.
 5. script 5-listfilesdigitonly displays current directory content in long format, with user and group IDs displayed numerically including hiden files upon excusion.
+6. script 6-firstdirectory creares a directory named my_first_directory in the /tmp/ directory upon excusion.
