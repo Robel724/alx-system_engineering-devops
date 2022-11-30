@@ -7,3 +7,4 @@
 6. script 6-firstdirectory creares a directory named my_first_directory in the /tmp/ directory upon excusion.
 7. script 7-movethatfile moves the file betty form /tmp/ to /tmp/my_first_directory upon excusion.
 8. script 8-firstdelete will delete the file betty from /tmp/my_first_directory upon excusion.
+9. script 9-firstdirdeletion will delete the directory my_first_directory that is in the /tmp directory upon excusion.
