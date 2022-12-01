@@ -13,3 +13,8 @@
 12. script 12-file_type print the rype of the file named iamafile in the /tmp directory upon excusion.
 13. script 12-symbolic_link creates a symbolic links to /bin/ls to _ls_ upon excusion.
 14. script 14-copy_html copies all the HTML files from the curret directory to their parrent directory.
+15. script 100-lets_move moves all files beginning with an uppercase letter to the directory /tmp/u upon excusion.
+16. script 101-clean_emacs eletes all files in the current working directory that end with the character ~ upon excusion.
+17. script 102-tree reates the directories welcome/, welcome/to/ and welcome/to/school in the current directory upon excusion.
+18. script 103-commas lists all the files and directories of the current directory, separated by commas (,) upon excusion.
+19. file school.mgc detects School data files. School data files always contain the string SCHOOL at offset 0.
